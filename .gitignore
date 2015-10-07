@@ -1,0 +1,8 @@
+target/
+test/
+*.txt
+*.class
+*.jar
+*.war
+*.ear
+
