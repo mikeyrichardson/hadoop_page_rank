@@ -7,7 +7,7 @@ It also contains a working (but not fully optimized) Hadoop version of PageRank 
 
 Here is an example of the syntax to run the program (assuming pagerank.jar is in the current directory)
 
-```
+```bash
 cd hadoop_pagerank
 mvn install
 cd target
